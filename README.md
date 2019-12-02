@@ -1,1 +1,4 @@
 # lightning-binaries
+
+lnd
+lncli
